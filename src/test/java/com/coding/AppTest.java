@@ -10,7 +10,7 @@ import org.junit.jupiter.api.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 // Note: I know these test don't work, couldn't figure out a :|
-// also I don't really have much experience writing Tests 
+// also I honestly don't really have much experience writing Tests 
 
 public class AppTest 
 {
